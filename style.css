@@ -1,0 +1,380 @@
+body {
+    margin: 0px;
+}
+
+.hero {
+    background-image: url(images/bg.png);
+    height: 825px;
+}
+
+.header {
+    padding: 55px 55px 0px 55px;
+    overflow: hidden;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-left img {}
+
+.header-right {
+    float: right;
+}
+
+.menu-top {
+    overflow: hidden;
+}
+
+.menu-top img {
+    float: left;
+    margin-left: 173px;
+}
+
+.menu-top p {
+    float: right;
+    margin-left: 10px;
+}
+
+.menu-bottom {}
+
+.menu-bottom ul {
+    list-style: none;
+    margin-right: -25px;
+}
+
+.menu-bottom ul li {
+    display: inline;
+    padding: 15px;
+}
+
+.menu-bottom ul li a {
+    text-decoration: none;
+}
+
+.benar {
+    padding: 55px 55px 0px 55px;
+    overflow: hidden;
+}
+
+.benar-left {
+    float: left;
+    margin-top: 124px;
+}
+
+.benar-left p {
+    font-size: 30px;
+    border: 2px dotted black;
+    font-size: 20px;
+    width: 374px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.benar-left h1 {
+    font-size: 92px;
+    font-family: 'Alfa Slab One', cursive;
+    line-height: 0px;
+}
+
+.benar-left h3 {
+    font-family: 'Alfa Slab One', cursive;
+    line-height: 0px;
+    font-size: 47px;
+
+}
+
+.benar-right {
+    float: right;
+}
+
+.benar-right img {
+    height: 725px;
+    height: 615px;
+    margin-right: 135px;
+}
+
+/* .box {
+    background-color: #ff2929;
+    ;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    position: absolute;
+    top: 558px;
+    left: 887px;
+
+
+}
+
+.box p {
+    color: white;
+    font-family: 'BebasNeue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+} */
+
+/* .boxstyle p {
+    border: 2px dotted;
+    border-radius: 50%;
+}
+
+.box p span {
+    font-size: 1.3rem;
+    letter-spacing: 1.2px;
+}
+
+.price {
+    font-size: 4rem;
+} */
+
+.photo-section {
+    margin: 90px 161px;
+
+}
+
+.photo-left {
+    float: left;
+}
+
+.photo-left img {}
+
+.photo-right {
+    float: right;
+}
+
+.photo-top {}
+
+.photo-top img {}
+
+.photo-bottom {
+    margin-top: 30px;
+}
+
+.photo-bottom img {}
+
+.enjoy {}
+
+.enjoy-top {
+    text-align: center;
+    clear: both;
+    margin: 210px;
+}
+
+.enjoy-top button {
+    font-size: 13pt;
+    background-color: #ffc045;
+    color: white;
+    text-align: center;
+    margin-top: 34px;
+    padding: 7px;
+}
+
+.enjoy-top h2 {
+    font-size: 42px;
+    line-height: 1px;
+}
+
+.enjoy-botom {
+    width: 1466px;
+    margin: -171px auto;
+}
+
+.enjoy-botom img {
+    height: 308px;
+    margin-left: 132px;
+}
+
+.enjoy-phototex {
+    width: 221px;
+    text-align: center;
+}
+
+.enjoy-phototex h2 {}
+
+.enjoy-phototex p {}
+
+.enjoy-phototex button {
+    font-size: 13pt;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+}
+.three-tex{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 169px 205px 0px 205px;
+}
+.num1{
+    margin-right: 251px;
+    
+}
+.num2{
+    margin-right: 207px;
+}
+.num3{
+
+}
+.upcaming-event{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 103px 193px 0px 193px ;
+    box-shadow:rgba(189, 189, 198, 0.75) 12px 12px 20px 0px ; 
+}
+.even-text{
+    line-height: 16px;
+}
+.even-text h4{
+    font-size: 32px;
+}
+.even-text h2{
+    line-height: 0px;
+    font-size: 39px;
+
+}
+.even-text p{
+
+}
+.event-photo{
+
+}
+.event-photo img{
+    
+}
+.main-contact {
+    position: relative;
+}
+
+.top-tex {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 57px;
+}
+
+.top-tex h4 {
+    font-family: 'Alfa Slab One';
+}
+
+.top-tex h2 {
+    font-family: 'Alfa Slab One';
+}
+
+.top-tex img {
+    position: absolute;
+    left: -100px;
+    top: -146px;
+}
+
+.bottom-form {
+    
+}
+
+.bottol-photo {
+    float: left;
+    position: absolute;
+    left: 89px;
+    top: 19px;
+}
+
+.formleft {}
+
+.formleft input {
+    width: 437px;
+    height: 36px;
+    margin-bottom: 19px;
+    margin-left: 259px;
+}
+.box1{
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    top: 525px;
+    right: 566px;
+    background-color: red;
+    border-radius: 50%;
+
+}
+.box-tex{
+    border: 4px dotted white;
+    border-radius: 52%;
+    margin: 7px;
+    padding: 17px;
+    line-height: 0px;
+}
+.price{
+    color: white;
+    font-family: 'BebasNeue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3.4rem;
+}
+.price span{
+    font-size: 1.3rem;
+    letter-spacing: 1.2px;
+}
+.only-price{
+    line-height: 0px;
+    text-align: center;
+    color: white;
+}
+.formright  {
+
+    float: right;
+    margin-top: -183px;
+    margin-right: 380px;
+}
+
+.formright input {
+    width: 437px;
+    height: 36px;
+    margin-bottom: 19px;
+}
+
+.formright button {
+    height: 43px;
+    width: 446px;
+    color: white;
+    background-color: #f00b0b;
+    font-weight: bold;
+    font-family: 'Alfa Slab One';
+    font-size: 20px;
+}
+.formright img{
+    width: 213px;
+    position: absolute;
+    top: 123px;
+    right: 0px;
+
+}
+.footer-main{
+    width: 1200px;
+    margin: 87px auto;
+}
+.footer-margin{
+    margin: 34px 34px 0px 34px;
+}
+footer{
+   background: url(images/footer.png);
+   height: 416px;
+}
+.footer-left{
+    width: 50%;
+    float: left;
+}
+.footer-left p{
+    color: #ffffff;
+    width: 100%;
+}
+.footer-left h6{
+    color: #ffffff;
+    margin-top: 180px;
+    font-size: 18px;
+}
+.footer-right{
+    width: 100%;
+    height: 525px;
+}
