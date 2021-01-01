@@ -298,12 +298,12 @@ body {
     border-radius: 50%;
 
 }
-.box-tex{
-    border: 4px dotted white;
-    border-radius: 52%;
-    margin: 7px;
-    padding: 17px;
-    line-height: 0px;
+.box-tex {
+	border: 4px dotted white;
+	border-radius: 49%;
+	margin: 10px;
+	padding: 1px;
+	line-height: 0px;
 }
 .price{
     color: white;
@@ -316,10 +316,11 @@ body {
     font-size: 1.3rem;
     letter-spacing: 1.2px;
 }
-.only-price{
-    line-height: 0px;
-    text-align: center;
-    color: white;
+.only-price {
+	line-height: 0px;
+	text-align: center;
+	color: white;
+	font-size: 41px;
 }
 .formright  {
 
